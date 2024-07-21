@@ -35,7 +35,3 @@
 
 <br>
 ⭐️ From [Mir Tariquddin](https://github.com/miruddin11)
-
-
-
-![snake gif](https://github.com/miruddin11/miruddin11/blob/output/github-contribution-grid-snake.gif)
