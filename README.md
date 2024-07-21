@@ -26,7 +26,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js&perline=5)](https://skillicons.dev)
 
 ![Mir Tariquddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miruddin11&show_icons=true&theme=dark)
 
