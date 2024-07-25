@@ -30,6 +30,8 @@
   <img src="https://leetcard.jacoblin.cool/predator_11?theme=light&font=K2D&ext=contest">
 </p>
 ### Languages and Tools:
+
+
 [![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js&perline=5)](https://skillicons.dev)
 
 ![Mir Tariquddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miruddin11&show_icons=true&theme=dark)
