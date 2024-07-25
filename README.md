@@ -23,15 +23,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
+<p align="center">
+  <br><br>
+  <img src="https://github.com/qingy2019/qingy2019/assets/66195939/e17d5f07-785b-4d8f-a974-9da84f0f741c" height=40 width=40>
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/predator_11?theme=light&font=K2D&ext=contest">
+</p>
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js&perline=5)](https://skillicons.dev)
 
 ![Mir Tariquddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miruddin11&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miruddin11&theme=dark)
-
-
 <br>
 ⭐️ From [Mir Tariquddin](https://github.com/miruddin11)
