@@ -25,9 +25,8 @@
 </div>
 <p align="center">
   <br><br>
-  <img src="https://github.com/qingy2019/qingy2019/assets/66195939/e17d5f07-785b-4d8f-a974-9da84f0f741c" height=40 width=40>
   <br><br>
-  <img src="https://leetcard.jacoblin.cool/predator_11?theme=light&font=K2D&ext=contest">
+  <img src="https://leetcard.jacoblin.cool/mirtariq?theme=light&font=K2D&ext=contest">
 </p>
 ### Languages and Tools:
 
