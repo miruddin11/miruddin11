@@ -33,8 +33,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miruddin11&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/miruddin11/miruddin/blob/output/github-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=miruddin11&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with <p align="center">
   <br><br>
