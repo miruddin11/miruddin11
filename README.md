@@ -1,3 +1,4 @@
+![Header](./github-header-image%20(1).png)
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Development and DSA<br>🌱 I’m currently learning Next.js , MongoDB<br>💬 Ask me about Competitive Programming and DSA
 
