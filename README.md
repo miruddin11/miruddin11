@@ -3,7 +3,7 @@
 🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Development and DSA<br>🌱 I’m currently learning Next.js , MongoDB<br>💬 Ask me about Competitive Programming and DSA
 <br>
 
-## 💥 Visit My Portfolio:
+## 💥 Visit My Portfolio 🚀:
 <a href="https://tariq-portfolio-chi.vercel.app/" target="blank">💻</></a>
 
 ## 💹 Leetcode Profile:
