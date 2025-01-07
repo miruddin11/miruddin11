@@ -7,7 +7,7 @@
 <a href="https://tariq-portfolio-chi.vercel.app/" target="blank">💻</></a>
 
 ## 💹 Leetcode Profile:
-![](https://leetcard.jacoblin.cool/mirtariq?ext=contest)
+![](https://leetcard.jacoblin.cool/mirtariq?ext=heatmap)
 
 
 ## 🌐 Socials:
