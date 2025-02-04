@@ -77,6 +77,8 @@ I am a passionate **Software Developer** with expertise in **Full-Stack Web Deve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mir-tariquddin)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miruddin11)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirtariquddin666@gmail.com)
-
 ---
 💡 *"Striving for excellence in every line of code!"*
+
+![snake gif](https://github.com/miruddin11/miruddin11/blob/output/github-snake-dark.svg)
+
