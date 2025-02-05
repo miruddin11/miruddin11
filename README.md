@@ -28,7 +28,7 @@
 <img align="center" height="322" src="https://leetcard.jacoblin.cool/mirtariq?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/164541033f8ae34e5ef6789c0d1ee627ece80f01/leetcode_stats_card.css" alt="mirtariq Leetcode Stats"/>
 </a>
 <a href="https://codeforces.com/profile/Nirmali18">
-<img align="center" height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=Nirmali18&theme=github_dark&force_username=true&border_color=30363d" alt="infinity_11 Codeforces Stats"/>
+<img align="center" height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=infinity_11&theme=github_dark&force_username=true&border_color=30363d" alt="infinity_11 Codeforces Stats"/>
 </a>
 
 ## 🧩 Technologies Worked With
