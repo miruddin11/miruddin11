@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Mir Tariquddin!</h1>
 
 <p align="center">
-  🚀 CS undergrad (Dec. 2021 - May. 2025) @ <strong>OUTR</strong> (CGPA: <strong>9.64</strong>) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML
+  🚀 CS undergrad (Dec. 2021 - May. 2025) @ <strong>OUTR</strong> (CGPA: <strong>9.63</strong>) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML
 </p>
 
 ---
