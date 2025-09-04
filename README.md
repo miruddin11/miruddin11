@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/mirtariq">
-    <img height="322" src="https://leetcard.jacoblin.cool/mirtariq?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/miruddin11/b010f03ce26bb80eb2b596106130cf86/raw/14d760243e7efbdfbdec6d89bbd4a0247793f5cb/leetcode_stats_card.css" />
+    <img height="290" src="https://leetcard.jacoblin.cool/mirtariq?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/miruddin11/b010f03ce26bb80eb2b596106130cf86/raw/14d760243e7efbdfbdec6d89bbd4a0247793f5cb/leetcode_stats_card.css" />
   </a>
   <a href="https://codeforces.com/profile/Nirmali18">
     <img height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=infinity_11&theme=github_dark&force_username=true&border_color=30363d" />
