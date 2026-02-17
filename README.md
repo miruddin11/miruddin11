@@ -1,29 +1,21 @@
 <h1 align="center">👋 Hey, I'm Mir Tariquddin!</h1>
 
 <p align="center">
-  🚀 CS undergrad (Dec. 2021 - May. 2025) @ <strong>OUTR</strong> (CGPA: <strong>9.63</strong>) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML
+  🚀 Software Engineer @ <strong>TCS (Prime)</strong> | 🎓 CS Grad @ <strong>OUTR</strong> (CGPA: <strong>9.63</strong>) | 💻 Full-Stack Developer | 📈 DSA Enthusiast
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Final-year Computer Science student at **OUTR**  
-- 🧠 Currently diving into **Next.js, MongoDB, backend optimization**, and **Deep Learning**
-- 📸 Working on image classification using **CNNs** and **ResNet**  
-- 🏆 **Global Rank 109** in TCS CodeVita Season 12  
+- 💼 **Software Engineer at TCS (Prime)**, building microservices in the BFSI domain  
+- 🛠️ Currently working heavily with **Core Java, Spring Boot, AWS, Kafka, Docker, and Kubernetes**
+- 🎓 Computer Science graduate from **OUTR** (Dec. 2021 - May. 2025)  
+- 🧠 Diving deeper into **Next.js, MongoDB, backend optimization**, and **Deep Learning**
+- 📸 Working on image classification using **CNNs** and **ResNet** - 🏆 **Global Rank 109** in TCS CodeVita Season 12  
 - 🥈 Advanced to **Meta Hacker Cup Round 2**
 
 📫 Reach me at: [**mirtariquddin666@gmail.com**](mailto:mirtariquddin666@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="174" src="https://github-readme-stats.vercel.app/api?username=miruddin11&show_icons=true&hide=contribs&theme=github_dark&border_color=30363d" />
-  <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miruddin11&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&size_weight=0.5&count_weight=0.5&hide=css" />
-</p>
 
 ---
 
@@ -31,10 +23,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/mirtariq">
-    <img height="290" src="https://leetcard.jacoblin.cool/mirtariq?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/miruddin11/b010f03ce26bb80eb2b596106130cf86/raw/14d760243e7efbdfbdec6d89bbd4a0247793f5cb/leetcode_stats_card.css" />
+    <img height="290" src="https://leetcard.jacoblin.cool/mirtariq?theme=dark&font=noto_sans&ext=contest&sheets=https://gist.githubusercontent.com/miruddin11/b010f03ce26bb80eb2b596106130cf86/raw/14d760243e7efbdfbdec6d89bbd4a0247793f5cb/leetcode_stats_card.css&v=1" />
   </a>
   <a href="https://codeforces.com/profile/Nirmali18">
-    <img height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=infinity_11&theme=github_dark&force_username=true&border_color=30363d" />
+    <img height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=infinity_11&theme=github_dark&force_username=true&border_color=30363d&v=1" />
   </a>
 </p>
 
@@ -44,6 +36,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-e6712c?logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3f7cad?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&logoColor=F7DF1E" />
@@ -62,6 +55,9 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-02569B?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-f6db47?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
@@ -95,5 +91,5 @@
 ### 🐍 Contribution Graph
 
 <p>
-  <img src="https://github.com/miruddin11/miruddin11/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/miruddin11/miruddin11/blob/output/github-snake-dark.svg?v=1" />
 </p>
