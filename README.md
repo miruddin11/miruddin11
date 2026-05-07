@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Mir Tariquddin!</h1>
 
 <p align="center">
-  🚀 Software Engineer @ <strong>TCS (Prime)</strong> | 🎓 CS Grad @ <strong>OUTR</strong> (CGPA: <strong>9.63</strong>) | 💻 Full-Stack Developer | 📈 DSA Enthusiast
+  🚀 Systems Engineer @ <strong>TCS (Prime)</strong> | 🎓 CS Grad @ <strong>OUTR</strong> (CGPA: <strong>9.63</strong>) | 💻 Full-Stack Developer | 📈 DSA Enthusiast
 </p>
 
 ---
