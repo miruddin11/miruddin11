@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Software Engineer at TCS (Prime)**, building microservices in the BFSI domain  
+- 💼 **Systems Engineer at TCS (Prime)**, building microservices in the BFSI domain  
 - 🛠️ Currently working heavily with **Core Java, Spring Boot, AWS, Kafka, Docker, and Kubernetes**
 - 🎓 Computer Science graduate from **OUTR** (Dec. 2021 - May. 2025)  
 - 🧠 Diving deeper into **Next.js, MongoDB, backend optimization**, and **Deep Learning**
